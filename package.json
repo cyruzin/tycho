@@ -1,0 +1,10 @@
+{
+  "name": "tycho",
+  "version": "0.0.1",
+  "description": "Taking you to the moon.",
+  "main": "index.js",
+  "repository": "https://github.com/cyruzin/tycho",
+  "author": "Cyro Dubeux",
+  "license": "MIT",
+  "private": false
+}
